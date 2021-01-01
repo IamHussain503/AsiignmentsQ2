@@ -241,7 +241,7 @@ def function12():
     """
 
 
-# task13
+# task13.....
 
 
 def function13():
@@ -266,7 +266,7 @@ def function14():
     # Hint use split method
 
     arr = np.arange(10, 34, 1)  # write reshape code
-    ans = np.split(arr.reshape(4, 2, 3), 4)  # write your code here
+    ans = np.split(arr.reshape(8, 3), 4)  # write your code here
 
     return ans
 
@@ -384,7 +384,6 @@ def function19():
     """
 
 
-print(function19())
 # Task20
 
 
